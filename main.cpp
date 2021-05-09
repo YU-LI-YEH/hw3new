@@ -162,7 +162,6 @@ void Detect(){
 
 
 
-
 int PredictGesture(float* output) {
   // How many times the most recent gesture has been matched in a row
   static int continuous_count = 0;
