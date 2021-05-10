@@ -122,7 +122,6 @@ void Detect_angle(Arguments *in, Reply *out) {
 
 
 
-
 void Detect(){
     double init_angle;
     while(1){
